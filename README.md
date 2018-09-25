@@ -1,4 +1,4 @@
-# About
+# MP3_from_YouTube
 
 its a Python script ( for mac ) to download mp3s from youtube links listen in a txt file.
 
