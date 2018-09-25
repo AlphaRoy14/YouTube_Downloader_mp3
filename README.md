@@ -1,13 +1,24 @@
-# YouTube_Downloader_mp3
-Python script to download music from youtube using youtube_dl for Mac 
+# About
 
-Instructions:
-download the script, 
-must have youitube_dl python package installed,
-livab installed through homebrew,
+its a Python script ( for mac ) to download mp3s from youtube links listen in a txt file.
 
-run the script wihe a test file nane as a command line argument, this text file must contain all the youtube links
-the music will get saved in a folder called songs 
+## Prerequisites
+pip install youtube_dl
+brew install liav
+
+## Running the script
+
+run the script with the text file containing the links of the songs as a command line argument 
+
+
+## Built With
+
+* [youtube_dl](https://pypi.org/project/youtube_dl/) - youtube donloader library 
+* [FFmpeg](https://libav.org/documentation/) - Converting to mp3
+
+
+
+
 
 
 
